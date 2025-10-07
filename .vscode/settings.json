@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.page-template": "vue",
+        "*.layout-template": "vue",
+        "*.vue": "vue",
+        "*.s": "nasm",
+        "game.h": "c",
+        "render.h": "c",
+        "stdbool.h": "c",
+        "stdio.h": "c",
+        "sdl.h": "c"
+    }
+}
